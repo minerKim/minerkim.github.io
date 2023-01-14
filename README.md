@@ -1,6 +1,6 @@
-# hello-world
+# Hello, world
 
-My first blog repository on GitHub
+My first blog test repository on GitHub
 
-I love :coffee: :pizza:, and :computer: \
-A line I wrote on my local computer
+I love :basktball:, :coffee:, :pizza:, and :computer: \
+Quarto is useful for me.
