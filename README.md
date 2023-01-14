@@ -1,7 +1,7 @@
 # Hello, world
 
 I'm minerkim studying machine-learning. \
-I love :basktball:, :coffee:, :pizza:, and :computer:.\
+I love :basektball:, :coffee:, :pizza:, and :computer:.\
 \
 This is my first blog test repository on GitHub. \
 Quarto is useful for me. \
